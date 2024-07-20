@@ -1,3 +1,4 @@
 media:
   input: files/media
+  output: media
   
